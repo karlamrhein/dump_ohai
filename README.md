@@ -1,6 +1,6 @@
 # dump_ohai
 
-From github gist:
+From Chetan Sarva's github gist:
 https://gist.github.com/chetan/2789490
 
 Thanks to Chetan Sarva for writing this script.
